@@ -257,5 +257,8 @@ files:
         LoanCalcTest('creditcalc.creditcalc').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/90/stages/503/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 01 Mar 2021 21:46:51 UTC
+record: 4
